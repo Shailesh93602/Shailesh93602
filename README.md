@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React, Typescript**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://shaileshchaudhari.netlify.app/portfolio)
+- 👨‍💻 All of my projects are available at [Portfolio](https://shaileshchaudhari.netlify.app/)
 
 - 💬 Ask me about **Nodejs, Mongodb, C++**
 
