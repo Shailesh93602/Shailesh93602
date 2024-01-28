@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shailesh93602&label=Profile%20views&color=0e75b6&style=flat" alt="shailesh93602" /> </p>
 
-- 🔭 I’m currently working on [MasteryPrep](https://www.github.com/shailesh9362/MasteryPrep/)
+- 🔭 I’m currently working on [MasteryPrep](https://www.github.com/shailesh93602/MasteryPrep/)
 
 - 🌱 I’m currently learning **React, Typescript**
 
