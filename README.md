@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Shailesh Chaudhari</h1>
-<h3 align="center">A passionate Full Stack Developer looking forward to showcase my skills in real world projects</h3>
+<h3 align="center">A passionate Full Stack Developer looking forward to showcasing my skills in real-world projects</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shailesh93602&label=Profile%20views&color=0e75b6&style=flat" alt="shailesh93602" /> </p>
 
 - 🔭 I’m currently working on [MasteryPrep](https://www.github.com/shailesh93602/MasteryPrep/)
 
-- 🌱 I’m currently learning **React, Typescript**
+- 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://shaileshchaudhari.netlify.app/portfolio)
 
-- 💬 Ask me about **Nodejs, Express, Mongodb, C++**
+- 💬 Ask me about **Nodejs, Express, React, MySQL, MongoDB, C++**
 
-- 📫 How to reach me **shailesh93602@gmail.com**
+- 📫 How to reach me **work.shailesh.chaudhari@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/10rp0GNQLc7WAVEc4_Y-SmeZ6Tq74XoQn/view?usp=drivesdk)
 
