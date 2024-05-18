@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [MasteryPrep](https://www.github.com/shailesh93602/MasteryPrep/)
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Next.js, Nest.js**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://shaileshchaudhari.netlify.app/portfolio)
 
