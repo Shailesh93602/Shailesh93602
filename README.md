@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://shaileshchaudhari.netlify.app/portfolio)
 
-- 💬 Ask me about **Nodejs, Express, React, MySQL, MongoDB, C++**
+- 💬 Ask me about **Nodejs, Express, React, MySQL, MongoDB, JavaScript, TypeScript, C++**
 
 - 📫 How to reach me **work.shailesh.chaudhari@gmail.com**
 
