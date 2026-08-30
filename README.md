@@ -1,9 +1,11 @@
 # Shailesh Chaudhari
 
-Software engineer at **ContextQA** — backend of the core QA-automation product: test-execution
-engine, VNC streaming, and multi-cloud browser orchestration (Playwright / WebdriverIO / LambdaTest).
-Focused on backend and distributed systems: idempotency, concurrency control, and testing that
-actually proves something.
+Full-stack engineer at **ContextQA**, strongest on the backend. I build the core QA-automation
+product's backend — test-execution engine, VNC streaming, multi-cloud browser orchestration
+(Playwright / WebdriverIO / LambdaTest) — and I ship the UI too: both products I shipped there are
+React / Next.js / TypeScript, one of them an accessibility auditor.
+
+What I care about: idempotency, concurrency control, and testing that actually proves something.
 
 **Portfolio:** [shaileshchaudhari.vercel.app](https://shaileshchaudhari.vercel.app) ·
 **How I verify:** [/engineering](https://shaileshchaudhari.vercel.app/engineering) — real defects
